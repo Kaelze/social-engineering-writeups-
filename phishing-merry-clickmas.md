@@ -41,3 +41,5 @@ This exercise highlights how attackers take advantage of holidays when users are
 CONCLUSION
 
 In conclusion, Phishing – Merry Clickmas demonstrates how effective social engineering can be when combined with emotional manipulation. This exercise reinforced the importance of being vigilant, especially during festive seasons, and always validating emails before clicking links or sharing information.
+
+By Muhammad Zarif Bin Muhamad Jeffri | 52215124119
